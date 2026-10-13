@@ -1,10 +1,12 @@
-# Concept Design Prototype of a Chesterfield Sofa
+# Concept Design Prototype of a Chesterfield Art on a Ring
 
 ## Summary
 
-|         Name          |                          Image                           |
-| :-------------------: | :------------------------------------------------------: |
-| Chesterfield Sofa[^1] | ![Chesterfield Sofa](images/chesterfield_sofa_image.jpg) |
+This design started with a YouTube video that inspired me to try a Chesterfield-style pattern on a ring. Later, I became fascinated by the design of the Chesterfield sofa itself, especially its deep button-tufted diamond pattern and rolled forms [^1]. That fascination led to a concept prototype of the pattern, developed by using a computational tool.
+
+|         Name          |                               Image                               |
+| :-------------------: | :---------------------------------------------------------------: |
+| Chesterfield Sofa[^1] | ![Chesterfield Art on a Ring](images/chesterfield_sofa_image.jpg) |
 
 ---
 
