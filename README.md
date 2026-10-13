@@ -54,7 +54,7 @@ The design of the Chesterfield-inspired ring was developed as a prototype produc
 
 ## Future Improvements
 
-The ring is a concept study that transfers the button-tufted diamond pattern of a Chesterfield sofa onto a small band. The pattern should next be parametrized so that the diamond count, button spacing, and pattern depth can be changed from a few driving dimensions, and the ring size could then be adjusted without rebuilding the model. Real jewelry also needs a metal selection (such as yellow, white, or rose gold, or silver), a check of the minimum wall thickness and the depth of the tufted recesses for casting or 3D printing in wax, and comfort testing of the inner surface. Variants such as a signet-style or stacking version could also be developed from the same pattern.
+The design is a concept study that transfers the button-tufted diamond pattern of a Chesterfield sofa onto a ring. The pattern should next be parametrized so that the diamond count, button spacing, and pattern depth can be changed from a few driving dimensions, and the ring size could then be adjusted without rebuilding the model. Real jewelry also needs a metal selection (such as yellow, white, or rose gold, or silver), a check of the minimum wall thickness and the depth of the tufted recesses for casting or 3D printing in wax, and comfort testing of the inner surface. Variants such as a signet-style or stacking version could also be developed from the same pattern.
 
 ---
 
