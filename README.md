@@ -2,7 +2,7 @@
 
 ## Summary
 
-This design started with a YouTube video that inspired me to try a Chesterfield-style pattern on a ring. Later, I became fascinated by the design of the Chesterfield sofa itself [^2], especially its deep button-tufted diamond pattern and rolled forms [^1]. That fascination led to a concept prototype of the pattern, developed by using a computational tool.
+This concept prototype design started with a YouTube video that inspired me to try a Chesterfield-style pattern on a ring. Later, I became fascinated by the design of the Chesterfield sofa itself [^2], especially its deep button-tufted diamond pattern and rolled forms [^1]. That fascination led to a concept prototype of the pattern, developed by using a computational tool.
 
 |         Name          |                               Image                               |
 | :-------------------: | :---------------------------------------------------------------: |
