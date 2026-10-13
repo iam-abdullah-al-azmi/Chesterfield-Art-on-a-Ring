@@ -2,7 +2,7 @@
 
 ## Summary
 
-This design started with a YouTube video that inspired me to try a Chesterfield-style pattern on a ring. Later, I became fascinated by the design of the Chesterfield sofa itself, especially its deep button-tufted diamond pattern and rolled forms [^1]. That fascination led to a concept prototype of the pattern, developed by using a computational tool.
+This design started with a YouTube video that inspired me to try a Chesterfield-style pattern on a ring. Later, I became fascinated by the design of the Chesterfield sofa itself [^2], especially its deep button-tufted diamond pattern and rolled forms [^1]. That fascination led to a concept prototype of the pattern, developed by using a computational tool.
 
 |         Name          |                               Image                               |
 | :-------------------: | :---------------------------------------------------------------: |
@@ -35,26 +35,26 @@ This design started with a YouTube video that inspired me to try a Chesterfield-
 
 ---
 
-## Applications [^2]
+## Applications [^3]
 
-- Living Room Focal Seating
-- Formal or Cozy Lounge Furniture
-- Hotel and Restaurant Lounges
-- Executive Suite and Reception Seating
-- Bedroom Accent Seating (Love Seat or Chair Versions)
-- Gentlemen's Club-Style Interiors
+- Statement and Cocktail Ring
+- Fashion Ring for Everyday Wear
+- Stacking Ring
+- Signet-Style Ring
+- Gift or Keepsake Ring
+- Custom Made-to-Order Jewelry
 
 ---
 
 ## Design Limitations
 
-The design of the Chesterfield sofa was developed as a prototype product. That’s why the real-life design considerations, including usability, ergonomics, internal frame and cushion construction, material selection (fabric or leather), proper design specification, monetization, and feasibility, have not been included.
+The design of the Chesterfield-inspired ring was developed as a prototype product. That’s why the real-life design considerations, including ring-size standards, comfort of wear, wall thickness for casting, metal selection, scale of the tufted pattern relative to a finger-sized band, proper design specification, monetization, and feasibility, have not been included.
 
 ---
 
 ## Future Improvements
 
-The sofa is a surface and form study only. The tufting, rolled arms, and cushion geometry should next be parametrized so that the seat count, arm height, and button spacing can be changed from a few driving dimensions. Real products also need a modeled internal frame, spring or foam layers, upholstery thickness, and fabric or leather selection. Ergonomic seat-height and back-angle checks, along with structural analysis of the frame under occupant loads, should also be considered before the design can become a manufacturable product.
+The ring is a concept study that transfers the button-tufted diamond pattern of a Chesterfield sofa onto a small band. The pattern should next be parametrized so that the diamond count, button spacing, and pattern depth can be changed from a few driving dimensions, and the ring size could then be adjusted without rebuilding the model. Real jewelry also needs a metal selection (such as yellow, white, or rose gold, or silver), a check of the minimum wall thickness and the depth of the tufted recesses for casting or 3D printing in wax, and comfort testing of the inner surface. Variants such as a signet-style or stacking version could also be developed from the same pattern.
 
 ---
 
@@ -63,3 +63,5 @@ The sofa is a surface and form study only. The tufting, rolled arms, and cushion
 [^1]: [Photo by Hal Gatewood](https://unsplash.com/photos/brown-leather-chesterfield-sofa-Vfml26Iy4mI)
 
 [^2]: [What Is a Chesterfield Sofa?](https://www.chairish.com/blog/what-is-a-chesterfield-sofa)
+
+[^3]: [10 Popular Types of Rings and Their Meanings](https://newportworldresorts.com/blog-articles/10-popular-types-rings-and-their-meanings)
