@@ -1,8 +1,12 @@
-# Concept Design Prototype of a Chesterfield Art on a Ring
+# A Chesterfield-Inspired Tufted Pattern on a Wide Ring
 
 ## Summary
 
-This concept prototype design started with a YouTube video that inspired me to try a Chesterfield-style pattern on a ring. Later, I became fascinated by the design of the Chesterfield sofa itself [^2], especially its deep button-tufted diamond pattern and rolled forms [^1].
+This concept prototype design started with a YouTube video that inspired me to try a Chesterfield-style pattern on a ring. Later, I became fascinated by the design of the Chesterfield sofa itself [^2], especially its deep button-tufted diamond pattern and rolled forms [^1]. The Chesterfield is known as a classic piece of furniture whose tufted surface gives it a rich, recognizable character, and I wanted to see whether that character could be carried over from a large sofa onto a small piece of jewelry.
+
+The ring is a wide band whose outer surface is covered with a repeating lattice of raised ridges. The ridges cross at rounded, button-like points, which imitates the tufting of the sofa, while the inner surface is kept smooth so that the ring remains comfortable to wear. Turning a flat upholstery pattern into a pattern that wraps around a curved band was the main challenge of the project, because the pattern has to stay evenly spaced and continuous all the way around the ring without visible breaks at the joint.
+
+The ring was developed as a computational model in SolidWorks. The views and the section view below show how the pattern, the band thickness, and the smooth inner surface come together. This prototype is a base concept design that can be developed further into a real, wearable piece of jewelry.
 
 |         Name          |                          Image                           |
 | :-------------------: | :------------------------------------------------------: |
@@ -25,13 +29,36 @@ This concept prototype design started with a YouTube video that inspired me to t
 
 ---
 
-## Technologies Used
-
-### Software
+## Software Used
 
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Tools Used
+
+| No  |       Name       |
+| :-: | :--------------: |
+| 01  |   Boss Extrude   |
+| 02  | Surface Revolve  |
+| 03  |   Surface Cut    |
+| 04  |     Revolve      |
+| 05  |      Sweep       |
+| 06  |  Body Move/Copy  |
+| 07  |     Combine      |
+| 08  |   Cut Extrude    |
+| 09  |       Axis       |
+| 10  | Circular Pattern |
+| 11  |      Mirror      |
+| 10  |       Flex       |
+
+---
+
+## Image of the Tool Used
+
+![Image of the Tool Used](images/chesterfield_tool_used.png)
 
 ---
 
