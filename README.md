@@ -37,7 +37,7 @@ The ring was developed as a computational model in SolidWorks. The views and the
 
 ---
 
-## Tools Used
+## Feature Tree
 
 | No  |       Name       |
 | :-: | :--------------: |
@@ -56,9 +56,9 @@ The ring was developed as a computational model in SolidWorks. The views and the
 
 ---
 
-## Feature Tree
+## Feature Tree Image
 
-![Image of the Tool Used](images/chesterfield_tool_used.png)
+![Feature Tree Image](images/chesterfield_feature_tree.png)
 
 ---
 
