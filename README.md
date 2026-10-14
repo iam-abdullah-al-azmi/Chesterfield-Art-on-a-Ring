@@ -92,3 +92,9 @@ The design is a concept study that transfers the button-tufted diamond pattern o
 [^2]: [What Is a Chesterfield Sofa?](https://www.chairish.com/blog/what-is-a-chesterfield-sofa)
 
 [^3]: [10 Popular Types of Rings and Their Meanings](https://newportworldresorts.com/blog-articles/10-popular-types-rings-and-their-meanings)
+
+---
+
+## Acknowledgements
+
+Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
